@@ -1,0 +1,97 @@
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyAboutPageButtonText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyAboutPageButtonText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyBlogPageButtonText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyBlogPageButtonText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyEmailInputBoxText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyEmailInputBoxText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyFirstNameInputBoxText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyFirstNameInputBoxText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyHomePageTitle
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyHomePageTitle
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyLastNameInputBoxText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyLastNameInputBoxText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyMessageInputBoxText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyMessageInputBoxText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyOurClientsSaysText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyOurClientsSaysText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyPhoneInputBoxText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyPhoneInputBoxText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifySearchBoxText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifySearchBoxText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyServicesPageButtonText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyServicesPageButtonText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyTestimoniesText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyTestimoniesText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyTollFreeText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyTollFreeText
+2023-05-12 18:04:49 INFO MyTestListener:13 - New Test Started verifyTrainingPageButtonText
+2023-05-12 18:04:49 INFO MyTestListener:23 - Test Skipped verifyTrainingPageButtonText
+2023-05-12 18:04:58 INFO MyTestListener:13 - New Test Started verifyAboutPageButtonText
+2023-05-12 18:04:59 INFO MyTestListener:13 - New Test Started verifyAboutPageButtonText
+2023-05-12 18:04:59 INFO Utility:27 - Test passed.
+2023-05-12 18:04:59 INFO MyTestListener:16 - Test Successfully Finished verifyAboutPageButtonText
+2023-05-12 18:05:00 INFO MyTestListener:19 - Test Failed verifyAboutPageButtonText
+2023-05-12 18:05:00 INFO MyTestListener:19 - Test Failed verifyAboutPageButtonText
+2023-05-12 18:05:08 INFO MyTestListener:13 - New Test Started verifyBlogPageButtonText
+2023-05-12 18:05:08 INFO Utility:30 - Test failed.
+2023-05-12 18:05:08 INFO Utility:31 - Expected: Services
+2023-05-12 18:05:08 INFO Utility:32 - Actual: Blog
+2023-05-12 18:05:08 INFO MyTestListener:19 - Test Failed verifyBlogPageButtonText
+2023-05-12 18:05:18 INFO MyTestListener:13 - New Test Started verifyEmailInputBoxText
+2023-05-12 18:05:18 INFO Utility:30 - Test failed.
+2023-05-12 18:05:18 INFO Utility:31 - Expected: Email
+2023-05-12 18:05:18 INFO Utility:32 - Actual: 
+2023-05-12 18:05:18 INFO MyTestListener:19 - Test Failed verifyEmailInputBoxText
+2023-05-12 18:05:28 INFO MyTestListener:13 - New Test Started verifyFirstNameInputBoxText
+2023-05-12 18:05:28 INFO Utility:30 - Test failed.
+2023-05-12 18:05:28 INFO Utility:31 - Expected: First Name
+2023-05-12 18:05:28 INFO Utility:32 - Actual: 
+2023-05-12 18:05:28 INFO MyTestListener:19 - Test Failed verifyFirstNameInputBoxText
+2023-05-12 18:05:38 INFO MyTestListener:13 - New Test Started verifyHomePageTitle
+2023-05-12 18:05:38 INFO Utility:27 - Test passed.
+2023-05-12 18:05:38 INFO MyTestListener:16 - Test Successfully Finished verifyHomePageTitle
+2023-05-12 18:05:48 INFO MyTestListener:13 - New Test Started verifyLastNameInputBoxText
+2023-05-12 18:05:48 INFO Utility:30 - Test failed.
+2023-05-12 18:05:48 INFO Utility:31 - Expected: Last Name
+2023-05-12 18:05:48 INFO Utility:32 - Actual: 
+2023-05-12 18:05:48 INFO MyTestListener:19 - Test Failed verifyLastNameInputBoxText
+2023-05-12 18:05:58 INFO MyTestListener:13 - New Test Started verifyMessageInputBoxText
+2023-05-12 18:05:58 INFO Utility:30 - Test failed.
+2023-05-12 18:05:58 INFO Utility:31 - Expected: Message
+2023-05-12 18:05:58 INFO Utility:32 - Actual: 
+2023-05-12 18:05:58 INFO MyTestListener:19 - Test Failed verifyMessageInputBoxText
+2023-05-12 18:06:08 INFO MyTestListener:13 - New Test Started verifyOurClientsSaysText
+2023-05-12 18:06:08 INFO Utility:30 - Test failed.
+2023-05-12 18:06:08 INFO Utility:31 - Expected: Our Clients Says
+2023-05-12 18:06:08 INFO Utility:32 - Actual: 
+2023-05-12 18:06:08 INFO MyTestListener:19 - Test Failed verifyOurClientsSaysText
+2023-05-12 18:06:19 INFO MyTestListener:13 - New Test Started verifyPhoneInputBoxText
+2023-05-12 18:06:19 INFO Utility:30 - Test failed.
+2023-05-12 18:06:19 INFO Utility:31 - Expected: Phone
+2023-05-12 18:06:19 INFO Utility:32 - Actual: 
+2023-05-12 18:06:19 INFO MyTestListener:19 - Test Failed verifyPhoneInputBoxText
+2023-05-12 18:06:30 INFO MyTestListener:13 - New Test Started verifySearchBoxText
+2023-05-12 18:06:30 INFO Utility:30 - Test failed.
+2023-05-12 18:06:30 INFO Utility:31 - Expected: Search
+2023-05-12 18:06:30 INFO Utility:32 - Actual: 
+2023-05-12 18:06:30 INFO MyTestListener:19 - Test Failed verifySearchBoxText
+2023-05-12 18:06:41 INFO MyTestListener:13 - New Test Started verifyServicesPageButtonText
+2023-05-12 18:06:41 INFO Utility:27 - Test passed.
+2023-05-12 18:06:41 INFO MyTestListener:16 - Test Successfully Finished verifyServicesPageButtonText
+2023-05-12 18:06:50 INFO MyTestListener:13 - New Test Started verifyTestimoniesText
+2023-05-12 18:06:51 INFO Utility:30 - Test failed.
+2023-05-12 18:06:51 INFO Utility:31 - Expected: Testimonies
+2023-05-12 18:06:51 INFO Utility:32 - Actual: 
+2023-05-12 18:06:51 INFO MyTestListener:19 - Test Failed verifyTestimoniesText
+2023-05-12 18:07:03 INFO MyTestListener:13 - New Test Started verifyTollFreeText
+2023-05-12 18:07:03 INFO Utility:27 - Test passed.
+2023-05-12 18:07:03 INFO MyTestListener:16 - Test Successfully Finished verifyTollFreeText
+2023-05-12 18:07:12 INFO MyTestListener:13 - New Test Started verifyTrainingPageButtonText
+2023-05-12 18:07:13 INFO Utility:27 - Test passed.
+2023-05-12 18:07:13 INFO MyTestListener:16 - Test Successfully Finished verifyTrainingPageButtonText
+2023-05-12 18:16:18 INFO Utility:88 - Cannot load from object array because "data" is null
+2023-05-12 18:16:18 INFO Utility:88 - Cannot load from object array because "data" is null
+2023-05-12 18:16:18 INFO Utility:88 - Cannot load from object array because "data" is null
+2023-05-12 18:16:18 INFO MyTestListener:19 - Test Failed verifyForumPageLogin
+2023-05-12 18:16:18 INFO MyTestListener:19 - Test Failed verifyForumPageLogin
+2023-05-12 18:16:18 INFO MyTestListener:19 - Test Failed verifyForumPageLogin
