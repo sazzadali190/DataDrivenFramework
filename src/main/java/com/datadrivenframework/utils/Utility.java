@@ -54,11 +54,7 @@ private static Logger log = Utility.getLog(Utility.class);
 			e.printStackTrace();
 		}
 	}
-	/**
-	 * @param path
-	 * @param sheetName
-	 * @return Object[][]
-	 */
+	
 	public static Object[][] readExcel(String path, String sheetName) {
 		Object data[][] = null;
 		DataFormatter formatData = new DataFormatter();
@@ -69,7 +65,7 @@ private static Logger log = Utility.getLog(Utility.class);
 		XSSFSheet sheet = workbook.getSheet(sheetName);
 		int rowSize = sheet.getPhysicalNumberOfRows();
 		int colSize = sheet.getRow(0).getLastCellNum();
-		//System.out.println(rowSize+"      "+colSize);
+		data = new Object[rowSize][colSize];
 		Iterator<Row> rowIterator = sheet.rowIterator();
 		int countRow = 0;
 		while(rowIterator.hasNext()){

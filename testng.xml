@@ -4,19 +4,19 @@
   <test thread-count="5" name="ChromeTest">
 	  <parameter name="browserName" value="chrome"></parameter>
     <classes>
-      <class name="com.datadrivenframework.tests.HomePageTest"/>
+      <class name="com.datadrivenframework.tests.ForumPageTest"/>
     </classes>
   </test> <!-- Test -->
   <test thread-count="5" name="FirefoxTest">
 	  <parameter name="browserName" value="firefox"></parameter>
     <classes>
-      <class name="com.datadrivenframework.tests.HomePageTest"/>
+      <class name="com.datadrivenframework.tests.ForumPageTest"/>
     </classes>
   </test> <!-- Test -->
   <test thread-count="5" name="EdgeTest">
 	  <parameter name="browserName" value="edge"></parameter>
     <classes>
-      <class name="com.datadrivenframework.tests.HomePageTest"/>
+      <class name="com.datadrivenframework.tests.ForumPageTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

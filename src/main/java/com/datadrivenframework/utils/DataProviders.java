@@ -11,8 +11,8 @@ public class DataProviders {
 	}*/
 	
 	@DataProvider(name = "forumLogin")
-	public Object[][] forumLoginTest(){
-		Object myTestData[][] = Utility.readExcel("src\\test\\resources\\students.xlsx", "forumLogin");
+	public static Object[][] forumLoginTest(){
+		Object myTestData[][] = Utility.readExcel("src\\test\\resources\\students.xlsx", "ForumLogin");
 		return myTestData;
 	}
 
