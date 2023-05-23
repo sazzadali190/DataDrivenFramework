@@ -71,6 +71,7 @@ public void verifyContactPageSubject() {
 String actualContactPageSubject = dr.findElement(By.xpath("//input[@placeholder='Subject']")).getText();
 String expectedContactPageSubject= "Subject";
 Utility.verify(actualContactPageSubject, expectedContactPageSubject);
+//System.out.println();
 }
 @Test
 public void verifyContactPageMessage() {
